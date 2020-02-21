@@ -1,6 +1,6 @@
 # Basic settings
 # Need to change to an appropriate Title sed in all setting and paraeters
-title: Resources
+title: Services
 description: "Security is a business requirement. Protecting personal data is a business imperative. We provide the expertise you need to protect your data and business."
 title_name: dario.com
 author: dario.com Staff
@@ -11,7 +11,7 @@ header-img: img/home.jpg
 logo: img/chklst.png
 image: "img/home.jpg"
 # urls
-baseurl: "/resources"
+baseurl: "/services"
 url: "https://dario.com"
 
 # copyright text in footer
