@@ -11,8 +11,8 @@ header-img: "img/privacy-policy.jpg"
 image: "img/privacy-policy.jpg"
 header-title:
 header-author:
-header-credit-link: https://pixabay.com/en/technology-keyboard-computing-785742/
-header-license: CC0 Creative Commons
+header-credit-link:
+header-license:
 ---
 
 <h2>Our Privacy Policy</h2>
