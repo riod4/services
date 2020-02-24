@@ -9,11 +9,11 @@ author:     "dario"
 header-img: "img/train-people.png"
 header-title:
 header-author:
-header-credit-link: https://pixabay.com/en/social-media-digitization-faces-2528410/
-header-license: CC0 Creative Commons
+header-credit-link:
+header-license:
 ---
 
-## Increasing awareness
+## Increasing privacy awareness
 The most common cause of privacy breaches is human error. It may be the loss of unencrypted portable devices, sharing/disclosing passwords, or allowing all email addresses to be viewable in mass emails. Privacy training can help avoid these types of errors by ensuring that employees understand their roles and obligations under applicable laws and policies. In addition to being good practice, privacy training is now required by law in many countries. Data-driven organizations also need to carefully consider role specific privacy training to ensure personal data is processed lawfully. A comprehensive  training programs should include: 
 
 - General privacy training for all employees;
