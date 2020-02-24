@@ -24,7 +24,7 @@ header-license:
 
 <p>We use <a href="https://support.google.com/analytics/answer/6004245">Google Analytics</a> to analyze traffic on our site. This information helps us understand visitor interests and helps us improve our website. When you visit our site, the pages that you look at, and a short text file called a cookie, are downloaded to your computer. A cookie is used to store small amounts of information. This information is collected for traffic analysis only. The cookie does not contain personal details. Depending on the browser that you use, you can set your preferences to block or refuse cookies, and to notify you before they are placed. We do not limit or modify the behavior of our website if you chose to block or refuse cookies.</p>
 
-<p>We do not sell or display any advertising on our site. The only personal information we have access to is information you enter in our [**contact page**]({{ site.baseurl }}/contact). This information is used to answer any question you may have or to contact you at your request. We do not collect this information for marketing purposes and we will not sell this information to third parties.</p>
+<p>We do not sell or display any advertising on our site. The only personal information we have access to is information you enter in our <a href="{{ site.baseurl }}/contact">contact page</a>. This information is used to answer any question you may have or to contact you at your request. We do not collect this information for marketing purposes and we will not sell this information to third parties.</p>
 
 <h3>Google Analytics</h3>
 <p>Please visit <a href="https://support.google.com/analytics/answer/6004245">Google Analytics</a> to review their privacy policy.</p>
