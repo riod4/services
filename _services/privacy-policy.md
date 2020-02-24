@@ -24,13 +24,13 @@ header-license:
 
 <p>We use <a href="https://support.google.com/analytics/answer/6004245">Google Analytics</a> to analyze traffic on our site. This information helps us understand visitor interests and helps us improve our website. When you visit our site, the pages that you look at, and a short text file called a cookie, are downloaded to your computer. A cookie is used to store small amounts of information. This information is collected for traffic analysis only. The cookie does not contain personal details. Depending on the browser that you use, you can set your preferences to block or refuse cookies, and to notify you before they are placed. We do not limit or modify the behavior of our website if you chose to block or refuse cookies.</p>
 
-<p>We do not sell or display any advertising on our site. The only personal information we have access to is information you enter in our <a href="{{ site.baseurl }}/contact">contact page</a>. This information is used to answer any question you may have or to contact you at your request. We do not collect this information for marketing purposes and we will not sell this information to third parties.</p>
+<p>We do not sell or display any advertising on our site. The only personal information we have access to is information you enter on our <a href="{{ site.baseurl }}/contact">contact page</a>. This information is used to answer any question you may have or to contact you at your request. We do not collect this information for marketing purposes and we will not sell this information to third parties.</p>
 
 <h3>Google Analytics</h3>
 <p>Please visit <a href="https://support.google.com/analytics/answer/6004245">Google Analytics</a> to review their privacy policy.</p>
 
 <h3>Contact Us</h3>
-<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at <a href="mailto:{{ site.email_privacy }}">{{ site.email_privacy }}</a></p>
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us on our <a href="{{ site.baseurl }}/contact">contact page</a></p>
 
 <hr>
 
@@ -53,4 +53,4 @@ header-license:
 <p>By continuing to access or use our Site after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Site.
 
 <h4>Contact Us</h4>
-<p>If you have any questions or require more information about these Terms, please contact at <a href="mailto:{{ site.email_privacy }}">{{ site.email_privacy }}</a></p>
+<p>If you have any questions or require more information about these Terms, please contact us on our <a href="{{ site.baseurl }}/contact">contact page</a></p>
