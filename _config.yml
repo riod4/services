@@ -1,9 +1,9 @@
 # Basic settings
 # Need to change to an appropriate Title sed in all setting and paraeters
 title: Services
-description: "Security is a business requirement. Protecting personal data is a business imperative. We provide the expertise you need to protect your data and business."
-title_name: dario.com
-author: dario.com Staff
+description: "We optimize data privacy and compliance programs, building private data security into the fabric of your organization, increasing trust and opportunities."
+title_name: dario.best
+author: dario.best Staff
 # Language format language_TERRITORY. Default is en_US
 lang: en_US
 # website logos, images & icons
@@ -12,16 +12,16 @@ logo: img/chklst.png
 image: "img/home.jpg"
 # urls
 baseurl: "/services"
-url: "https://dario.com"
+url: "https://www.dario.best"
 
 # copyright text in footer
-copyright_name: dario.com
+copyright_name: dario.best
 
 # email address
-email: contact@dario.com
-email_username: contact@dario.com
+email: contact@dario.best
+email_username: contact@dario.best
 # email address in privacy policy
-email_privacy: privacy@dario.com
+email_privacy: privacy@dario.best
 
 # search tracking id for dario.com
 google_tracking_id: UA-98131817-2
