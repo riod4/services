@@ -1,7 +1,7 @@
 # Basic settings
 # Need to change to an appropriate Title sed in all setting and paraeters
 title: Services
-description: "We optimize data privacy and compliance programs, building private data security into the fabric of your organization, increasing trust and opportunities."
+description: "We optimize data privacy and compliance programs, building private data protection into the fabric of your organization, increasing trust and opportunities."
 title_name: dario.best
 author: dario.best Staff
 # Language format language_TERRITORY. Default is en_US
@@ -12,7 +12,7 @@ logo: img/chklst.png
 image: "img/home.jpg"
 # urls
 baseurl: "/services"
-url: "https://www.dario.best"
+url: "https://dario.best"
 
 # copyright text in footer
 copyright_name: dario.best
@@ -23,8 +23,8 @@ email_username: contact@dario.best
 # email address in privacy policy
 email_privacy: privacy@dario.best
 
-# search tracking id for dario.com
-google_tracking_id: UA-98131817-2
+# change tracking id for dario.com
+google_tracking_id: UA-98131817-5
 
 webmaster_verifications:
   google: DQehZZh2Dx2G-CEfmIed3hixR8DokYqvKiJwWcn5IiM
