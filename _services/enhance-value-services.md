@@ -7,6 +7,7 @@ date:       2020-01-22 12:00:00
 permalink:  /enhance-value
 author:     "dario"
 header-img: "img/enhance-value.jpg"
+image: "/img/enhance-value.jpg"
 header-title:
 header-author:
 header-credit-link:
