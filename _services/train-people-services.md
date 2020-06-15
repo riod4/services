@@ -7,6 +7,7 @@ date:       2020-01-23 12:00:00
 permalink:  /train-people
 author:     "dario"
 header-img: "img/train-people.png"
+image: "/img/train-people.png"
 header-title:
 header-author:
 header-credit-link:
