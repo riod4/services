@@ -7,6 +7,7 @@ date:       2020-01-21 12:00:00
 permalink:  /assess-readiness
 author:     "dario"
 header-img: "img/assess-readiness.jpg"
+image: "/img/assess-readiness.jpg"
 header-title:
 header-author:
 header-credit-link:
