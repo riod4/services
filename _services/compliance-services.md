@@ -1,13 +1,13 @@
 ---
 layout:     services
-title:      "Services"
+title:      "Compliance Services"
 subtitle:   "Manage personal data programs and mitigate potential incidents."
 description: "Recovering trust is more costly than protecting private data. Every organization should have a proven plan in place to mitigate a potential privacy incident."
 date:       2020-11-13 16:00:00
-permalink:  /services
+permalink:  /compliance-services
 author:     "dario"
-header-img: "img/services.jpg"
-image: "/img/services.jpg"
+header-img: "img/compliance-services.jpg"
+image: "/img/compliance-services.jpg"
 header-title:
 header-author:
 header-credit-link:
