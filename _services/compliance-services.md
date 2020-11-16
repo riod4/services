@@ -15,7 +15,7 @@ header-license:
 ---
 
 ## Safeguarding Trust 
-We offer our expertise to organizations who want to grow their business while benefiting from made-to-measure privacy management services which optimizes return on investment. This ensures personal data is used in compliance with regulations, customers personal data is processed with respect, data request are treated promptly, and potential incidents will be dealt with in an effective way.
+We offer our expertise to organizations who want to grow their business while benefiting from made-to-measure privacy management services which optimizes return on investment. This ensures personal data is used in compliance with regulations, customers personal data is processed with respect, personal data requests are treated promptly, and potential incidents will be dealt with in an effective way.
 
 
 ### Increase your Resilience
