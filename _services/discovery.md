@@ -1,7 +1,7 @@
 ---
 layout:     services
 title:      "Discovery"
-subtitle:   "Propose privacy policies and processes tailored to your objectives."
+subtitle:   "Propose personal data solutions tailored to your needs."
 description: "As consumers embrace the convenience of data-driven platforms, data privacy and security will not only be a risk management or compliance issue, but a competitive advantage."
 date:       2020-11-01 12:00:00
 permalink:  /discovery
